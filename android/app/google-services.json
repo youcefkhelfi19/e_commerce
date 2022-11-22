@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "683821103431",
+    "project_id": "portofoli-aa631",
+    "storage_bucket": "portofoli-aa631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683821103431:android:8093bb42ea3a2341f1f462",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683821103431-p9782pcq8okajbomvcgn95b357h564kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Y5vqjD8rW7OcAd6YStfPIl0LB5a14DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683821103431-p9782pcq8okajbomvcgn95b357h564kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683821103431-dsrjj827dvbikf05ffiipt6grhsnedo5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
